@@ -60,11 +60,13 @@ During the product life, components may fail needing repair or upgrade. Here the
 # Circuit Diagram
 
 
+![WhatsApp Image 2025-03-13 at 6 28 22 AM](https://github.com/user-attachments/assets/d9c5498b-32a3-498e-af2b-765cd10a7080)
 
 
 # Output
 
 
+![Screenshot 2025-03-16 204545](https://github.com/user-attachments/assets/48e6a41a-a1f4-441f-8cd7-0144eb9834f1)
 
 
 
